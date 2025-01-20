@@ -44,3 +44,10 @@ img[alt="kitty 5"] {
   top: 245px;
   left: 120px;
 }
+
+.kitty-2 {
+  position: absolute;
+  z-index: 6;
+  top: 250;
+  left: 230;
+}
